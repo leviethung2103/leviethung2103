@@ -3,5 +3,3 @@
 {{ template "daily-table" .Weathers }}
 
 {{ template "daily-table" .Weathers }}
-
-
