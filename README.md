@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 Here are some side projects I have implemented.
 
 #### Natural Language Processing
-1. Spam Email Classification(https://github.com/leviethung2103/SpamEmailClassification)
+1. [Spam Email Classification](https://github.com/leviethung2103/SpamEmailClassification)
 
 
 #### Audio
