@@ -45,21 +45,21 @@ Moderate rain
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Moderate rain</td><td width="200px">Moderate rain</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Cloudy</td>
+        <td width="200px">Moderate rain</td><td width="200px">Moderate rain</td><td width="200px">Moderate rain</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>22.1 -  28 °C</td><td>21.9 -  27.7 °C</td><td>22 -  31 °C</td><td>21.8 -  31.2 °C</td><td>21.9 -  30.4 °C</td><td>22.2 -  30.5 °C</td><td>22.2 -  31.9 °C</td>
+        <td>22 -  27.2 °C</td><td>21.9 -  29.4 °C</td><td>22.1 -  30.3 °C</td><td>22.1 -  31.3 °C</td><td>22 -  29.6 °C</td><td>22.5 -  29.4 °C</td><td>22 -  32.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.1 kph</td><td>4 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>7.9 kph</td>
+        <td>3.6 kph</td><td>4 kph</td><td>7.6 kph</td><td>9.4 kph</td><td>7.6 kph</td><td>7.2 kph</td><td>8.3 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-09-28T23:10:44Z*
+*Updated at: 2023-09-28T23:23:41Z*
