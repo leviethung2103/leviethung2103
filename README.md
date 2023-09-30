@@ -53,13 +53,13 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>22 -  29.9 °C</td><td>22 -  31.1 °C</td><td>21.5 -  29.8 °C</td><td>21.6 -  31.7 °C</td><td>22.3 -  29.8 °C</td><td>22 -  29.1 °C</td><td>21.9 -  28.7 °C</td>
+        <td>22.3 -  30.2 °C</td><td>22.3 -  31.2 °C</td><td>22.4 -  29.7 °C</td><td>22.1 -  29.7 °C</td><td>22.2 -  29.7 °C</td><td>22 -  29.2 °C</td><td>21.8 -  28.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.8 kph</td><td>7.6 kph</td><td>6.8 kph</td><td>8.3 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>7.6 kph</td>
+        <td>7.6 kph</td><td>8.6 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>7.9 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-09-30T23:21:07Z*
+*Updated at: 2023-09-30T23:33:03Z*
