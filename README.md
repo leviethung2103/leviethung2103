@@ -4,9 +4,9 @@
 
 `Danang, Vietnã - 01/10/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
 
-Moderate rain
+Patchy rain possible
 
 </div>
 
@@ -45,21 +45,21 @@ Moderate rain
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Moderate rain</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td>
+        <td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Moderate rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>22.3 -  30.2 °C</td><td>22.3 -  31.2 °C</td><td>22.4 -  29.7 °C</td><td>22.1 -  29.7 °C</td><td>22.2 -  29.7 °C</td><td>22 -  29.2 °C</td><td>21.8 -  28.6 °C</td>
+        <td>22.3 -  30.2 °C</td><td>22 -  31.3 °C</td><td>22.3 -  29.8 °C</td><td>22 -  29.7 °C</td><td>22 -  30.4 °C</td><td>22 -  29.2 °C</td><td>22.4 -  28 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.6 kph</td><td>8.6 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>7.9 kph</td>
+        <td>7.6 kph</td><td>8.6 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>4 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-10-01T05:03:04Z*
+*Updated at: 2023-10-01T05:22:16Z*
