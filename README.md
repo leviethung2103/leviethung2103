@@ -4,9 +4,9 @@
 
 `Danang, Vietnã - 05/10/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
 
-Moderate rain
+Patchy rain possible
 
 </div>
 
@@ -45,21 +45,21 @@ Moderate rain
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Moderate rain</td><td width="200px">Heavy rain</td><td width="200px">Heavy rain</td>
+        <td width="200px">Patchy rain possible</td><td width="200px">Moderate rain</td><td width="200px">Heavy rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>22.7 -  30.6 °C</td><td>22.8 -  27.5 °C</td><td>22 -  28.3 °C</td>
+        <td>22.1 -  32.7 °C</td><td>22.8 -  31.5 °C</td><td>22.2 -  27.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>4.3 kph</td><td>5.8 kph</td><td>3.6 kph</td>
+        <td>7.6 kph</td><td>3.2 kph</td><td>4.3 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-10-05T04:47:24Z*
+*Updated at: 2023-10-05T04:58:42Z*
