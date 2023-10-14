@@ -53,13 +53,13 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>20.4 -  23 °C</td><td>20.5 -  22.2 °C</td><td>20.2 -  25.6 °C</td>
+        <td>20.4 -  24.2 °C</td><td>20.6 -  21.7 °C</td><td>20.5 -  25.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.5 kph</td><td>9.7 kph</td><td>13.3 kph</td>
+        <td>7.2 kph</td><td>9 kph</td><td>11.9 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-10-14T05:40:42Z*
+*Updated at: 2023-10-14T05:52:22Z*
