@@ -45,21 +45,21 @@ Moderate rain
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Moderate rain</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td>
+        <td width="200px">Moderate rain</td><td width="200px">Patchy rain possible</td><td width="200px">Moderate rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>21 -  22.1 °C</td><td>20.5 -  25.1 °C</td><td>20.1 -  25.7 °C</td>
+        <td>20.6 -  23.5 °C</td><td>20.3 -  25 °C</td><td>20.3 -  25.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.1 kph</td><td>11.5 kph</td><td>13 kph</td>
+        <td>11.5 kph</td><td>11.2 kph</td><td>13 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-10-14T17:09:04Z*
+*Updated at: 2023-10-14T17:24:11Z*
