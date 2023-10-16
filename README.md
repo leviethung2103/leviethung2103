@@ -18,7 +18,7 @@ Moderate rain
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/263.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/263.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/263.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/263.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
@@ -53,13 +53,13 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>20.2 -  25.2 °C</td><td>20.5 -  21.5 °C</td><td>21.4 -  26.2 °C</td>
+        <td>19.9 -  25.4 °C</td><td>20.9 -  22.3 °C</td><td>21.4 -  28.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>12.6 kph</td><td>9.7 kph</td><td>8.6 kph</td>
+        <td>12.6 kph</td><td>9 kph</td><td>5 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-10-16T22:52:07Z*
+*Updated at: 2023-10-16T23:09:57Z*
