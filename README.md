@@ -30,7 +30,7 @@ Patchy rain possible
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5 kph</td><td>4.7 kph</td><td>5 kph</td><td>5 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>1.8 kph</td><td>2.2 kph</td><td>1.4 kph</td><td>1.4 kph</td><td>2.9 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>4.3 kph</td><td>2.9 kph</td><td>2.5 kph</td><td>3.6 kph</td><td>1.4 kph</td><td>2.2 kph</td><td>1.4 kph</td><td>1.4 kph</td>
+        <td>5 kph</td><td>4.7 kph</td><td>5 kph</td><td>5 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>1.8 kph</td><td>2.2 kph</td><td>1.4 kph</td><td>1.4 kph</td><td>2.9 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>4.3 kph</td><td>2.9 kph</td><td>2.5 kph</td><td>1.8 kph</td><td>3.6 kph</td><td>2.2 kph</td><td>1.4 kph</td><td>1.4 kph</td>
     </tr>
 </table>
 
@@ -62,4 +62,4 @@ Patchy rain possible
 </table>
 
 
-*Updated at: 2023-10-19T12:58:52Z*
+*Updated at: 2023-10-19T13:27:41Z*
