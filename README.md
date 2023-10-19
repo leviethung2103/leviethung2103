@@ -30,7 +30,7 @@ Patchy rain possible
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5 kph</td><td>4.7 kph</td><td>5 kph</td><td>5 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>1.8 kph</td><td>1.4 kph</td><td>0.7 kph</td><td>3.6 kph</td><td>1.1 kph</td><td>1.4 kph</td><td>1.1 kph</td><td>2.5 kph</td><td>3.6 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>1.1 kph</td><td>0.7 kph</td><td>0.4 kph</td><td>1.1 kph</td>
+        <td>5 kph</td><td>4.7 kph</td><td>5 kph</td><td>5 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>1.8 kph</td><td>1.4 kph</td><td>0.7 kph</td><td>0.7 kph</td><td>3.6 kph</td><td>1.4 kph</td><td>1.1 kph</td><td>2.5 kph</td><td>3.6 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>1.1 kph</td><td>0.7 kph</td><td>0.4 kph</td><td>1.1 kph</td>
     </tr>
 </table>
 
@@ -45,21 +45,21 @@ Patchy rain possible
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Cloudy</td>
+        <td width="200px">Patchy rain possible</td><td width="200px">Moderate rain</td><td width="200px">Overcast</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>20.6 -  31.9 °C</td><td>20.8 -  28.2 °C</td><td>17.7 -  23.7 °C</td>
+        <td>20 -  31.8 °C</td><td>19.8 -  27.2 °C</td><td>18.7 -  22.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5.8 kph</td><td>11.5 kph</td><td>13.7 kph</td>
+        <td>5 kph</td><td>10.1 kph</td><td>10.4 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-10-19T05:50:25Z*
+*Updated at: 2023-10-19T06:10:04Z*
