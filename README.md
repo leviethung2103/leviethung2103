@@ -53,13 +53,13 @@ Patchy rain possible
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>21.4 -  28.2 °C</td><td>17 -  21.7 °C</td><td>17.3 -  22.8 °C</td>
+        <td>21.2 -  28.6 °C</td><td>17 -  22.3 °C</td><td>17 -  21.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>12.2 kph</td><td>12.2 kph</td><td>9.7 kph</td>
+        <td>12.6 kph</td><td>12.6 kph</td><td>9.7 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-10-20T05:19:12Z*
+*Updated at: 2023-10-20T05:30:39Z*
