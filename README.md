@@ -53,13 +53,13 @@ Heavy rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>20.8 -  21.4 °C</td><td>21.4 -  24.3 °C</td><td>21.4 -  27.7 °C</td>
+        <td>20.8 -  21.6 °C</td><td>21.8 -  25.4 °C</td><td>21.3 -  28.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.6 kph</td><td>6.5 kph</td><td>4.3 kph</td>
+        <td>7.6 kph</td><td>7.2 kph</td><td>4.3 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-10-24T11:11:54Z*
+*Updated at: 2023-10-24T11:23:26Z*
