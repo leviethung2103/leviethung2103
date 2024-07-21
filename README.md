@@ -13,7 +13,7 @@ Email: leviethung1280@gmail.com
 ### 🛫 Side Projects
 Here are some side projects I have implemented.
 
-### Chatbot 
+### 🤖 Chatbot 
 1. [Webui-Chatbot](https://github.com/leviethung2103/webui-chatbot)
 2. [Langchain-Practice](https://github.com/leviethung2103/langchain-practice)
 
