@@ -1,12 +1,13 @@
 ### About me 👋
 
-My name is Hung (Jack). I am from 🇻🇳.I am AI Engineer at @FSoft(https://fptsoftware.com/). 
+My name is Hung (Jack). I am from Vietnam (🇻🇳)
+I am AI Engineer at @FSoft(https://fptsoftware.com/). 
 
 Email: leviethung1280@gmail.com
 
 ### Interest
 - 🔭 I’m currently working on Computer Vision, Natural Language Processing
-- 👯 I’m looking to collaborate on AI project
+- 👯 I’m looking to collaborate on AI projects
 
 
 ### 🛫 Side Projects
@@ -14,6 +15,7 @@ Here are some side projects I have implemented.
 
 ### Chatbot 
 1. [Webui-Chatbot](https://github.com/leviethung2103/webui-chatbot)
+2. [Langchain-Practice](https://github.com/leviethung2103/langchain-practice)
 
 #### 💫 Natural Language Processing
 1. [Spam Email Classification](https://github.com/leviethung2103/SpamEmailClassification)
