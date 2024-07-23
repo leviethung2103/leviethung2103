@@ -18,6 +18,7 @@ Here are some side projects I have implemented.
 2. [Langchain-Practice](https://github.com/leviethung2103/langchain-practice)
 3. [Self-host Langfuse](https://github.com/leviethung2103/langfuse)
 4. [Book Chatbot](https://github.com/leviethung2103/langchain-practice/tree/main/Projects/BookSummarize)
+5. [Langchain-FastAPI-Streaming](https://github.com/leviethung2103/langchain-fastapi-streaming)
 
 #### 💫 Natural Language Processing
 1. [Spam Email Classification](https://github.com/leviethung2103/SpamEmailClassification)
