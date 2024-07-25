@@ -46,3 +46,8 @@ Here are some side projects I have implemented.
 1. [Pyspark Docker](https://github.com/leviethung2103/setup-spark)
 
 ## Certificates
+1. [Azure Databricks & Spark For Data Engineers (PySpark / SQL)](https://www.udemy.com/certificate/UC-2b6bd182-ee6c-4b6e-9fd2-71eaa4ad73e7/)
+2. [LangChain- Develop LLM powered applications with Langchain](https://udemy-certificate.s3.amazonaws.com/pdf/UC-9f80eb3b-3248-4a24-ab56-6e3e42d42bf6.pdf)
+3. [Langchain 101 for beginners](https://www.udemy.com/certificate/UC-751a59fd-8fbe-45c5-9812-642ea4559dca/)
+4. [Introduction to Transformer-Based Natural Language Processing](https://courses.nvidia.com/certificates/794ddd43f13e410caf6744b964d61a90/)
+5. [IBM Data Science Specialization)()
