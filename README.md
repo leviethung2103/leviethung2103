@@ -39,6 +39,7 @@ Here are some side projects I have implemented.
 2. [Instagram Downloader](https://github.com/leviethung2103/Youtube_Facebook_Instagram_Email)
 3. [24h.com.vn News](https://example.com)
 4. [Vnexpress New](https://example.com)
+5. [Linkedin Crawler](https://github.com/leviethung2103/linkedin)
 
 #### 🎁 Others
 1. [Send request with proxy](https://github.com/leviethung2103/Proxy)
