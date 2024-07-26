@@ -3,7 +3,10 @@
 My name is Hung (Jack). I am from Vietnam (🇻🇳)
 I am AI Engineer at @FSoft(https://fptsoftware.com/). 
 
+
+## Contact
 Email: leviethung1280@gmail.com
+My personal blog: https://blog.hungleviet.com/
 
 ### Interest
 - 🔭 I’m currently working on Computer Vision, Natural Language Processing
