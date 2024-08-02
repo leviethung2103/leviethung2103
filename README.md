@@ -45,6 +45,8 @@ Here are some side projects I have implemented.
 1. [Send request with proxy](https://github.com/leviethung2103/Proxy)
 2. [Google Search Side Bar](https://github.com/leviethung2103/GoogleSearchSideBar_GE)
 
+#### Optimization
+1. [Staff Scheduluing](https://github.com/leviethung2103/or-tools-schedule-management)
 
 #### Devops
 1. [Pyspark Docker](https://github.com/leviethung2103/setup-spark)
