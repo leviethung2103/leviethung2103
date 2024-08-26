@@ -45,6 +45,7 @@ Here are some side projects I have implemented.
 1. [Send request with proxy](https://github.com/leviethung2103/Proxy)
 2. [Google Search Side Bar](https://github.com/leviethung2103/GoogleSearchSideBar_GE)
 3. [Youtube-Facebook-Video-Downloader](https://github.com/leviethung2103/youtube-facebook-downloader)
+4. [VPS Setup](https://github.com/leviethung2103/vps-setup)
 
 
 #### Optimization
