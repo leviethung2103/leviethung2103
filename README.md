@@ -9,7 +9,7 @@ Email: leviethung1280@gmail.com
 My personal blog: https://blog.hungleviet.com/
 
 ### Interest
-- 🔭 I’m currently working on Computer Vision, Natural Language Processing
+- 🔭 I’m currently working on Computer Vision, Natural Language Processing, Large Language Model
 - 👯 I’m looking to collaborate on AI projects
 
 
@@ -44,6 +44,8 @@ Here are some side projects I have implemented.
 #### 🎁 Others
 1. [Send request with proxy](https://github.com/leviethung2103/Proxy)
 2. [Google Search Side Bar](https://github.com/leviethung2103/GoogleSearchSideBar_GE)
+3. [Youtube-Facebook-Video-Downloader](https://github.com/leviethung2103/youtube-facebook-downloader)
+
 
 #### Optimization
 1. [Staff Scheduluing](https://github.com/leviethung2103/or-tools-schedule-management)
