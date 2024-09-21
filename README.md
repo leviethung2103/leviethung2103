@@ -27,6 +27,10 @@ Here are some side projects I have implemented.
 1. [Spam Email Classification](https://github.com/leviethung2103/SpamEmailClassification)
 
 
+#### Web 
+1. [Translator](https://github.com/leviethung2103/translator)
+
+
 #### 👂 Audio
 1. [Speaker Diarization](https://github.com/leviethung2103/whisper_speaker_diarization)
 
